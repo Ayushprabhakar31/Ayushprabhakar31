@@ -55,47 +55,58 @@ I like turning ambitious ideas into clean, usable software: fast backends, polis
 
 ## Featured Projects
 
-### AI Career Coach
+### CMSI 694 Graduate Capstone Platform
 
-An AI-powered career assistant that analyzes resumes, suggests role-specific improvements, generates interview practice questions, and helps users track job-search progress.
+A full-stack capstone project built around a real software workflow, combining frontend usability, backend logic, and structured project delivery.
 
-**Highlights:** resume parsing, personalized feedback, interview prep, dashboard analytics  
-**Tech:** Python, FastAPI, React, PostgreSQL, OpenAI API
+**What makes it strong:** production-style feature planning, clean UI flow, modular JavaScript architecture, and capstone-level documentation  
+**Tech:** JavaScript, HTML, CSS, Node.js
 
-### Smart Campus Navigator
+### Ayush Portfolio Website
 
-A full-stack campus navigation platform for finding buildings, services, study spaces, and event locations with a clean map-first interface.
+A personal portfolio website designed to showcase projects, technical skills, and professional experience with a clean web presence.
 
-**Highlights:** searchable locations, route planning, saved places, responsive design  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Firebase, Maps API
+**What makes it strong:** responsive layout, project-focused sections, polished visual hierarchy, and recruiter-friendly presentation  
+**Tech:** HTML, CSS, JavaScript
 
-### Finance Tracker Pro
+### Aayush Web Interface
 
-A personal finance dashboard that categorizes expenses, visualizes spending patterns, and gives users simple insights for better budgeting decisions.
+A frontend project focused on building a structured, responsive user interface with semantic HTML and custom styling.
 
-**Highlights:** transaction management, charts, budget alerts, monthly reports  
-**Tech:** React, Node.js, Express, MongoDB, Chart.js
+**What makes it strong:** layout discipline, reusable sections, clean page structure, and strong fundamentals in browser-based development  
+**Tech:** HTML, CSS
 
-### Disaster Response Resource Hub
+### AyushP Web Project
 
-A resource coordination system for emergency response teams to track requests, inventory, volunteers, and high-priority needs in real time.
+A web development project showing practical frontend implementation, page styling, and component-like layout organization.
 
-**Highlights:** role-based access, live status updates, resource matching, admin dashboard  
-**Tech:** JavaScript, Node.js, PostgreSQL, Socket.io
+**What makes it strong:** consistent styling, readable markup, beginner-to-advanced frontend growth, and deployable static-site structure  
+**Tech:** HTML, CSS
 
-### ML Student Success Predictor
+### Ayushprabhakar Style Lab
 
-A machine learning project that predicts student performance risk using academic and engagement data, with explainable insights for intervention planning.
+A CSS-focused project for experimenting with visual design, spacing, typography, and modern page composition.
 
-**Highlights:** data cleaning, feature engineering, model evaluation, explainability  
-**Tech:** Python, pandas, scikit-learn, Streamlit
+**What makes it strong:** design practice, visual polish, responsive thinking, and a foundation for future portfolio-level interfaces  
+**Tech:** CSS, HTML
 
-### Developer Portfolio Platform
+### GitHub Profile README
 
-A sleek portfolio and project showcase system built to present case studies, technical writeups, and live project demos with strong visual polish.
+A profile repository built to turn the GitHub overview page into a professional developer landing page with project highlights, skills, and activity.
 
-**Highlights:** project CMS structure, animated UI, SEO-friendly pages, deployment-ready build  
-**Tech:** Next.js, TypeScript, Tailwind CSS, Vercel
+**What makes it strong:** personal branding, clear project storytelling, GitHub stats, skill badges, and an organized first impression  
+**Tech:** Markdown, GitHub Actions-ready structure
+
+## Project Upgrade Roadmap
+
+I am actively improving these repositories so each one has a stronger technical story:
+
+- Add a professional `README.md` to every project with screenshots, setup steps, features, and tech stack.
+- Rename repositories with clearer, portfolio-ready names where needed.
+- Add live demo links for web projects using GitHub Pages, Vercel, or Netlify.
+- Improve project descriptions so visitors immediately understand the purpose and value.
+- Pin the best 4-6 repositories on my GitHub profile.
+- Add screenshots or short demo GIFs to make each project easier to evaluate.
 
 ## GitHub Snapshot
 
